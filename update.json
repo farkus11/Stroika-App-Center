@@ -1,4 +1,5 @@
 {
-  "versionCode": 1,
-  "url": ""
+  "versionCode": 2,
+  "url": "https://github.com/farkus11/Stroika-App-Center/releases/download/v1.0/app-debug.apk"
+  "releaseNotes": "Первая версия с автообновлением!"
 }
